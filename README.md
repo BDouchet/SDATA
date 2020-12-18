@@ -2,7 +2,7 @@
 
 ## TP-LDA
 
-It is a work on iris dataset for classification using Linear Discriminant Analysis. In this project, I work on :
+Work on iris dataset for classification using Linear Discriminant Analysis. In this project :
 - Data Visualization (pairplot, TSNE)
 - Calculation of the LDA manually
 - Comparison with sklearn LDA
