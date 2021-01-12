@@ -17,3 +17,11 @@ Work on [house price dataset](https://www.kaggle.com/c/house-prices-advanced-reg
 - Multiple Linear Regression
 - Ridge Regression (L2 Regularization)
 - Lasso Regression (L1 Regularization)
+
+## NeuralNetworks
+
+Work on classical CNNs on MNIST and CIFAR10
+- Data Preprocessing and Visualization
+- Build and Training of CNNs
+- Feature Extraction
+- Comparison to trees
