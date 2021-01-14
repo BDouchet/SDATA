@@ -25,3 +25,11 @@ Work on classical CNNs on MNIST and CIFAR10
 - Build and Training of CNNs
 - Feature Extraction
 - Comparison to trees
+
+## Kalman
+
+Work on Linear Gaussian Model (state space model) to apply Kalman Filter :
+- Mathematical Background
+- Simulation of the state space model
+- Application of a Kalman Filter
+- Exploration with different initial parameters
